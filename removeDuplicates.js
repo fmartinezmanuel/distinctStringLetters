@@ -1,6 +1,6 @@
 /***********************************************************************
 + Author: Manuel Martinez Fernandez
-+ Date: Friday 10 October 2019
++ Date: Friday 18 October 2019
 + email: mfernandez.uidev@gmail.com
 +
 + Expected input: 'AbraCadABraAlakAzam' as string
